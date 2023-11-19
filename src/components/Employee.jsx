@@ -25,7 +25,6 @@ const Employee = () => {
           <p className="text-white text-sm">Role: {employee.role}</p>
           <p className="text-white text-sm">Employee ID: {employee.empId}</p>
           <p className="text-white text-sm">DOB: {employee.dob}</p>
-          {/* Add more details as needed */}
         </div>
       </div>
     </>

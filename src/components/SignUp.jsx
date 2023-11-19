@@ -7,7 +7,7 @@ const SignUp = () => {
 
   const handleSignUp = (e) => {
     e.preventDefault();
-    // Add your sign-up logic here
+    // TODO : sign-up logic here
     console.log("Signing up:", { email, password });
   };
 

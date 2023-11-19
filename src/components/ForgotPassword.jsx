@@ -6,7 +6,7 @@ const ForgotPassword = () => {
 
   const handleForgotPassword = (e) => {
     e.preventDefault();
-    // Add your forgot password logic here
+    // TODO :  forgot password logic here
     console.log("Forgot password for email:", email);
   };
 
